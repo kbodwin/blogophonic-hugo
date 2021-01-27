@@ -1,19 +1,26 @@
 header:
   - name: Home
-    title: Home Page
+    title: home
     url: /
-  - name: About
-    title: About Blogophonic
+  - name: About Me
+    title: about
     url: /about/
-  - name: Blog
-    title: Blog
-    url: /blog/
-  - name: Contact
-    title: Contact Form
+  - name: Course Materials
+    title: courses
+    url: /courses/
+  - name: R Packages
+    title: packages
+    url: /software/
+  - name: Research Projects
+    title: projects
+    url: /projects/
+  - name: Consulting
+    title: consulting
+    url: /consulting/
+  - name: Contact Form
+    title: contact
     url: /contact/
-  - name: Elements
-    title: Element Page
-    url: /elements/
+
 
 footer:
   - name: Help

@@ -1,20 +1,29 @@
+// Name my colors
+:root {
+  --bluebell: #a2a2d0
+  --dark-purple: #26116c
+  --dark-bluebell: #484890
+  --latte: #FFF8e7;
+  --sunset: #FD5e53;
+  --cornflower: #6495ED
+}
 
 // set your custom colors here
-$siteBgColorCustom: #E3E3DA;
-$sidebarBgColorCustom: #DBDBD2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headlineColorCustom: #103742;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #C4001A;
-$navLinkColorCustom: #C4001A;
-$sidebarLinkColorCustom: #C4001A;
-$footerTextColorCustom: #918F8D;
-$buttonTextColorCustom: #F7F7F4;
+$siteBgColorCustom: #fffefb;  
+$sidebarBgColorCustom: #a2a2d0; 
+$textColorCustom: #333; 
+$sidebarTextColorCustom: #fffefb;  
+$headlineColorCustom: #Fd5e53; 
+$headingColorCustom: #484890;
+$bodyLinkColorCustom: #39B7CC; 
+$navLinkColorCustom: #484890;
+$sidebarLinkColorCustom: #484890;
+$footerTextColorCustom: #918F8D; //default
+$buttonTextColorCustom: #333;
 $buttonHoverTextColorCustom: #F9F9F8;
 $buttonBgColorCustom: #0F0906;
-$buttonHoverBgColorCustom: #103742;
-$borderColorCustom: #C4BEB9;
+$buttonHoverBgColorCustom: #6495ED; 
+$borderColorCustom: #C4BEB9; //default
 
 // ------------------------------
 // DO NOT EDIT BELOW THIS LINE
